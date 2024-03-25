@@ -1,0 +1,8 @@
+squid-secure.pe
+squid-secure.net.pe
+squid-secure.eu
+squid-secure.org.pe
+squid-secure.com.de
+squid-secure.com.pe
+squid-secure.so
+squid-secure.cx
